@@ -14,6 +14,8 @@ make
 
 To encrypt: 
 
+Encrypt will create a .enc file with the encrypted content of the input file.
+
 ```Bash
 ./encrypt <shift> <file>
 ```
